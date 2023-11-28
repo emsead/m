@@ -1,4 +1,4 @@
-document.getElementById("download").addEventListener("click", function() {
+document.getElementById("cv").addEventListener("click", function() {
     var imgUrl = 'Resume.jpg';
   
     var link = document.createElement('a');
